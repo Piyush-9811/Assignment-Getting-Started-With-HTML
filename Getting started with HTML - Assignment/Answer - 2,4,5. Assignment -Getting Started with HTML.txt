@@ -1,0 +1,30 @@
+Question 2. 
+Answer :- The purpose of comments in HTML is to provide human-readable text
+      	whch are ignored by the web browser when rendering the webpage.
+	Comments in HTML are written like that:
+				     	 <!-- and --> tags
+	 Anything in these tags is treated as a comment and is not display in the browser.
+ 	Comments are useful for adding explanations, reminders, or notes to the code for 
+	developers who read it. It helps in improve code readability and maintainability.
+
+---------------------------------------------------------------------------------------------------
+Question 4
+Answer :- HTML Tags: Tags are the building blocks of HTML documents. They are written in angle brackets < > which provide instructions to 
+	the web browser. There are two types of tags:
+ 	1. opening tag 
+	2. closing tag
+ 	The opening tag denotes the start of an element, and the closing tag denotes the end.
+	 For example:- <p> is an opening tag for a paragraph element, and </p> is its closing tag.
+
+	HTML Elements: An HTML element are group of an opening tag, content, and a closing tag. The content is the information or text 
+	contained in the element.
+	 For example :-  <p>This is a paragraph element containing some text.</p> .
+---------------------------------------------------------------------------------------------------
+Question 5
+Answer :- The DOCTYPE declaration in HTML (Document Type Declaration) is a statement that provide the informnation like which version of 
+	HTML in the web browser are use to render the web page.It is attached at the beginning of an HTML document, before the <html> tag.
+ 	Its purpose is to inform the browser about the version of HTML. To know that the browser renders 
+	the document according to the same version.
+	or example, the DOCTYPE declaration for HTML5 looks like this:
+					<!DOCTYPE html>  .
+	
